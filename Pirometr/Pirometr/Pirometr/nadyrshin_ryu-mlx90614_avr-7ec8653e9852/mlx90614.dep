@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2625670488</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cp866toepson.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\hd44780.pbi</file>
+      <file>$PROJ_DIR$\mlx9061x\mlx9061x.c</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\delay\delay.h</file>
+      <file>$PROJ_DIR$\hd44780\cp1251toepson.c</file>
+      <file>$PROJ_DIR$\mlx9061x\mlx9061x.h</file>
+      <file>$PROJ_DIR$\hd44780\hd44780.c</file>
+      <file>$PROJ_DIR$\hd44780\cp1251toepson.h</file>
+      <file>$PROJ_DIR$\delay\delay.c</file>
+      <file>$PROJ_DIR$\hd44780\hd44780.h</file>
+      <file>$PROJ_DIR$\mlx9061x\i2cm.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\hd44780\cp866toepson.h</file>
+      <file>$PROJ_DIR$\hd44780\cp866toepson.c</file>
+      <file>$PROJ_DIR$\mlx9061x\i2cm.h</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iom328p.inc</file>
+      <file>$PROJ_DIR$\mlx90614.c</file>
+      <file>$PROJ_DIR$\mlx90614\mlx90614.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\mlx90614.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-3s-ec_mul-sf-n.r90</file>
+      <file>$TOOLKIT_DIR$\inc\iom328p.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mlx90614.hex</file>
+      <file>$PROJ_DIR$\mlx90614\mlx90614.h</file>
+      <file>$PROJ_DIR$\mlx90614\cp866toepson.c</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cp1251toepson.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\mlx90614.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mlx90614.d90</file>
+      <file>$PROJ_DIR$\Debug\Exe\mlx90614.a90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.r90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$PROJ_DIR$\mlx90614\cp1251toepson.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-3s-ec_mul-sf-n.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mlx90614.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\mlx90614.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\cp1251toepson.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2cm.pbi</file>
+      <file>$PROJ_DIR$\mlx90614\cp1251toepson.h</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\mlx9061x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mlx9061x.r90</file>
+      <file>$PROJ_DIR$\mlx90614\cp866toepson.h</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm328p.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\hd44780.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\cp866toepson.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2cm.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r90</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul-sf.r90</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 39 24</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\mlx9061x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 17 7</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 16 17 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp1251toepson.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\hd44780.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 34 9 18 5 37 44 33 32 63 11 14 42 45 23 59 30 0 36 47 40 48 29</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 5 11 9 14 42 34 32 47 48 29 33 40 44 0 46 45 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\i2cm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 16 23 63 18 36 30 17</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 16 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 11 0 47 29 5 42 17 32 34 40 48 63 7 4 23 59 30 16 44 33 36</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 5 7 17 16 11 4 42 34 32 47 48 29 33 40 44 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp866toepson.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx90614.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 0 42 58 45 32 34 33 63 35 46 37 23 59 30 44 36 47 40 48 29</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 58 35 42 34 32 47 48 29 33 40 44 0 46 45 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx90614\mlx90614.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 5 25 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mlx90614.hex</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 60 27 66 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx90614\cp866toepson.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mlx90614.d90</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 60 27 66 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mlx90614.a90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 60 27 51 1 41 61 64 66 56 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx90614\cp1251toepson.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 63 23 59 30 36 18</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36 23 59 18 63 30 58</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

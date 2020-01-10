@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <toolchain>
+      <name>AVR</name>
+    </toolchain>
+    <debug>1</debug>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <toolchain>
+      <name>AVR</name>
+    </toolchain>
+    <debug>0</debug>
+  </configuration>
+  <group>
+    <name>delay</name>
+    <file>
+      <name>$PROJ_DIR$\delay\delay.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay\delay.h</name>
+    </file>
+  </group>
+  <group>
+    <name>hd44780</name>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp1251toepson.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp1251toepson.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp866toepson.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\cp866toepson.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\hd44780.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hd44780\hd44780.h</name>
+    </file>
+  </group>
+  <group>
+    <name>mlx9061x</name>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\i2cm.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\i2cm.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\mlx9061x.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mlx9061x\mlx9061x.h</name>
+    </file>
+  </group>
+  <file>
+    <name>$PROJ_DIR$\main.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\main.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\types.h</name>
+  </file>
+</project>
+
+

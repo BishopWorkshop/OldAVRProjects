@@ -1,0 +1,30 @@
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\BugRCInterface.exe.config
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\BugRCInterface.exe
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\BugRCInterface.pdb
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.Properties.Resources.resources
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.csproj.GenerateResource.Cache
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.exe
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.pdb
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.MainForm.resources
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.DirectInput.dll
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.dll
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.xml
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.DirectInput.xml
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.csprojResolveAssemblyReference.cache
+E:\Develop projects\C#\Windows\BugRCInterface\BugRCInterface\bin\Debug\BugRCInterface.exe.config
+E:\Develop projects\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.exe
+E:\Develop projects\C#\Windows\BugRCInterface\BugRCInterface\obj\Debug\BugRCInterface.pdb
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\BugRCInterface.exe.config
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\BugRCInterface.exe
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\BugRCInterface.pdb
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.dll
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.xml
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.csprojAssemblyReference.cache
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.MainForm.resources
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.Properties.Resources.resources
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.csproj.GenerateResource.cache
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.csproj.CopyComplete
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.exe
+C:\Users\volod\Desktop\ToGIT\Bug\Bug WindowsInterface\BugRCInterface\obj\Debug\BugRCInterface.pdb

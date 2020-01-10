@@ -1,0 +1,12 @@
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\BugRCInterface.exe.config
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\BugRCInterface.exe
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\BugRCInterface.pdb
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\Microsoft.DirectX.DirectInput.dll
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\Microsoft.DirectX.dll
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\Microsoft.DirectX.xml
+E:\C#\Windows\BugRCInterface\BugRCInterface\bin\Release\Microsoft.DirectX.DirectInput.xml
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Release\BugRCInterface.MainForm.resources
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Release\BugRCInterface.Properties.Resources.resources
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Release\BugRCInterface.csproj.GenerateResource.Cache
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Release\BugRCInterface.exe
+E:\C#\Windows\BugRCInterface\BugRCInterface\obj\Release\BugRCInterface.pdb
